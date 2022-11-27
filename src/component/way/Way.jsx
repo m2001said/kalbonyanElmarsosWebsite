@@ -26,12 +26,7 @@ const Way = () => {
           >
             الكورس
           </a>
-          <a
-            className="btn-green"
-            href="https://docs.google.com/forms/d/e/1FAIpQLSel1DuHIh_gJiSBYQNt4l-ABeh5jVxlakwanXouR9Kv6_UgVA/viewform"
-            rel="noreferrer"
-            target="_blank"
-          >
+          <a className="btn-green" href="/" rel="noreferrer" target="_blank">
             الاستبيان
           </a>
         </div>
